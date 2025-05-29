@@ -1,0 +1,2 @@
+# useful_inductor_in_drawio
+drawioで使える便利なインダクタの図形です．
